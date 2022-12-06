@@ -12,19 +12,19 @@ CraftRise , SonOyuncu Ve Minecraft İçerisinde Diğer Rakiplerden Sizi Daha Üs
 
 🎮ESP
 
-[Oyuna Enjekte Ettiği Modüller ile ESP Aktif Olur
+[Oyuncuları Bir Kutu İçinde Duvar Arkası Görmenizi Sağlar]
+
+🎮AimBot
+
+[Oyunculara Otomatik Kitlenir]
 
 🎮Autorod
 
 [Autorod (Olta Makrosu) Otomatik Olta Atar. Kendi Ayarlayabildiğiniz Özelleştirilebilir Delay Ayarlarıyla Güzel bir Oyun Keyfi Sağlar]
 
-🎮Tofaş Mode
+🎮Scaffold (Legit)
 
-[Oyunun İçinde Tofaş Sürer Gibi Olursunuz]
-
-🎮Auto Bridger
-
-[Z Tuşuna Basılı Tuttuğunuzda Otomatik Yol Yapar.]
+[Z Tuşuna Basılı Tuttuğunuzda Otomatik Yol Yapar]
 
 🎮Cave Finder (XRAY)
 
@@ -37,10 +37,6 @@ CraftRise , SonOyuncu Ve Minecraft İçerisinde Diğer Rakiplerden Sizi Daha Üs
 🎮Anti Ban
 
 [Oyundan Yasaklanma Oranını Azaltır ve Sizi Güvende Tutar]
-
-🎮Toggle Sounds
-
-[Her Hile Açtığınız Veya Kapattığınızda Bir Sinyal Sesi Çıkarır]
 
 🎮Arraylist
 
@@ -62,19 +58,10 @@ CraftRise , SonOyuncu Ve Minecraft İçerisinde Diğer Rakiplerden Sizi Daha Üs
 
 [Tüm Oyunlarda Ve Bilgisayarda Hızlanma Sağlar]
 
-🎮İp Resetter
-
-[Oyundan İP Yasaklanması İle Karşılaştığınız Vakit Banınızı Kaldırır]
-
-🎮Regedit (8 Adet)
+🎮Regedit
 
 [Oyununuzu Daha İyi Bir Hale Getiren Regeditler]
 
-🎮Bat (8 Adet)
+🎮Bat
 
 [Oyununuzu Daha İyi Bir Hale Getiren Batlar]
-
-
-🎮Craftrise Speed
-
-[Daha Hızlı Koşarsınız]
