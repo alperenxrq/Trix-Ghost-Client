@@ -1,4 +1,4 @@
-# Trix Ghost Client [alperenn#3517]
+ Trix Ghost Client [alperenn#3517]
 
 CraftRise , SonOyuncu Ve Minecraft İçerisinde Diğer Rakiplerden Sizi Daha Üstün Kılacak bir Hile İstemcisi!
 
