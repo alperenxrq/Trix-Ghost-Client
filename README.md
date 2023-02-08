@@ -1,4 +1,4 @@
-# Trix Ghost Client [Alperenn#3517]
+# Trix Ghost Client [alperenn#3517]
 
 CraftRise , SonOyuncu Ve Minecraft İçerisinde Diğer Rakiplerden Sizi Daha Üstün Kılacak bir Hile İstemcisi!
 
@@ -17,6 +17,22 @@ CraftRise , SonOyuncu Ve Minecraft İçerisinde Diğer Rakiplerden Sizi Daha Üs
 🎮AimBot
 
 [Oyunculara Otomatik Kitlenir]
+
+🎮NameTags
+
+[Oyuncuların İsimlerini ve Canlarını Uzaktan Görmenizi Sağlar]
+
+🎮ChestESP
+
+[Sandıkların Konumunu Gösterir]
+
+🎮Tracers
+
+[Oyuncuların Konumlarını Ekranın Ortasından Oyuncuya Kadar Giden İnce Bir Çizgi İle Gösterir]
+
+🎮Chams
+
+[Oyuncuları Duvar Arkasından Skinlerini Gösterir]
 
 🎮Autorod
 
