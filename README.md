@@ -36,7 +36,7 @@ CraftRise , SonOyuncu Ve Minecraft İçerisinde Diğer Rakiplerden Sizi Daha Üs
 
 🎮Autorod
 
-[Autorod (Olta Makrosu) Otomatik Olta Atar. Kendi Ayarlayabildiğiniz Özelleştirilebilir Delay Ayarlarıyla Güzel bir Oyun Keyfi Sağlar]
+[Autorod Otomatik Olta Atar. Kendi Ayarlayabildiğiniz Özelleştirilebilir Delay Ayarlarıyla Güzel bir Oyun Keyfi Sağlar]
 
 🎮Scaffold (Legit)
 
